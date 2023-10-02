@@ -1,2 +1,2 @@
 # Yzu-swiftui
-[hw1](https://github.com/AmilyC/Yzu-swiftui/main/hw1.md)
+[hw1](https://github.com/AmilyC/Yzu-swiftui/blob/main/hw1.md)
