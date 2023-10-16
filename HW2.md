@@ -2,7 +2,7 @@
 <table>
   <tr>
     
-    <td>
+    
 ```swift
 import SwiftUI
 var ran:Int=0
