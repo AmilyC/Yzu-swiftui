@@ -143,9 +143,8 @@ extension UIScreen{
 
 
 ```
- <img src="https://raw.githubusercontent.com/AmilyC/Yzu-swiftui/main/Hw2-1.jpg">
- <img src="https://raw.githubusercontent.com/AmilyC/Yzu-swiftui/main/HW2-2.jpg">
- <img src = "https://raw.githubusercontent.com/AMilyC/Yzu-swiftui/main/HW2-3.jpg">
+ <img src="Hw3.jpg">
+
     </td>
   </tr>
 </table>
