@@ -2,7 +2,7 @@
 <table>
   <tr>
     <td>
-      ```swift
+```swift
       import SwiftUI
 
 struct ContentView: View {
@@ -139,7 +139,7 @@ extension UIScreen{
     static let screenSize = UIScreen.main.bounds.size
 }
 
-      ```
+```
     </td>
   </tr>
 </table>
