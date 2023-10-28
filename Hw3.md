@@ -4,8 +4,7 @@
     <td>
 ```swift
      
-      
-      import SwiftUI
+import SwiftUI
       
 ```
     </td>
