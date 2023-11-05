@@ -53,7 +53,7 @@ struct ContentView: View {
                     if ranCom==0{
                          str="You lose!"
                     }else{
-                         str="Yu win!"
+                         str="You win!"
                     }
                 }
                 else{
@@ -139,10 +139,13 @@ struct FruitView: View{
 }
 
 ```
-[![Watch the demo video](https://youtube.com/shorts/RAw42dzlDrc?si=Drtb5JLmF6Pc2YkY)]
 
 
- <img src="https://raw.githubusercontent.com/AmilyC/Yzu-swiftui/main/Hw2-1.jpg">
+ <img src="https://raw.githubusercontent.com/AmilyC/Yzu-swiftui/main/Hw2-
+
+https://github.com/AmilyC/Yzu-swiftui/assets/91866786/1334cc25-4644-4dc8-8dd8-7023ecf4fe35
+
+1.jpg">
  <img src="https://raw.githubusercontent.com/AmilyC/Yzu-swiftui/main/HW2-2.jpg">
  <img src = "https://raw.githubusercontent.com/AMilyC/Yzu-swiftui/main/HW2-3.jpg">
     </td>
