@@ -141,11 +141,11 @@ struct FruitView: View{
 ```
 
 
- <img src="https://raw.githubusercontent.com/AmilyC/Yzu-swiftui/main/Hw2-
+ <img src="https://raw.githubusercontent.com/AmilyC/Yzu-swiftui/main/Hw2-1.jpg">
 
 https://github.com/AmilyC/Yzu-swiftui/assets/91866786/1334cc25-4644-4dc8-8dd8-7023ecf4fe35
 
-1.jpg">
+
  <img src="https://raw.githubusercontent.com/AmilyC/Yzu-swiftui/main/HW2-2.jpg">
  <img src = "https://raw.githubusercontent.com/AMilyC/Yzu-swiftui/main/HW2-3.jpg">
     </td>
