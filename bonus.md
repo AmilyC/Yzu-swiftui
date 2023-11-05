@@ -54,6 +54,6 @@ struct ContentView: View {
       
  ```
 
-     </td>
+  </td>
   </tr>
 </table>
