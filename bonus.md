@@ -2,7 +2,7 @@
 <table>
   <tr>
    
-    <td>
+<td>
       
  ```swift
 import SwiftUI
