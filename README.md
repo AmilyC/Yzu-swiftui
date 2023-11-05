@@ -7,7 +7,7 @@
 [hw2](https://github.com/AmilyC/Yzu-swiftui/blob/main/HW2.md)
 ## About hw3
 #### 作業3是以最近流行的洞洞收納板作為發想，以九宮格的方式呈現居家生活收納收藏品的整潔感，搭配一些綠色植物作為點綴，以簡約無印風作為基底，帶給人們一種樸素簡約卻不失溫度的設計感。
-[hw3](https://github.com/AmilyC/Yzu-swiftui/blob/main/HW3.md)
+[hw3](https://github.com/AmilyC/Yzu-swiftui/blob/main/Hw3.md)
 ## About bonus
 #### bonus 的部分我修改了Date()的設定，去除多餘的文字，只保留年月日
 [bonus](https://github.com/AmilyC/Yzu-swiftui/blob/main/bonus.md)
