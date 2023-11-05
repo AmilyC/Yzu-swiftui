@@ -182,11 +182,14 @@ struct FruitView: View{
 
 
 ```
+</td>
 
 
-https://github.com/AmilyC/Yzu-swiftui/assets/91866786/778045ae-057c-493a-8b4e-edf2bae44975
+
+https://github.com/AmilyC/Yzu-swiftui/assets/91866786/0cf171e8-6cd7-4577-8780-811577a0e2ab
 
 
-    </td>
+
+    
   </tr>
 </table>
