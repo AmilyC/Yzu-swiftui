@@ -53,7 +53,7 @@ struct ContentView: View {
 
       
  ```
-
+ <img src="https://raw.githubusercontent.com/AmilyC/Yzu-swiftui/main/bonus.jpg">
   </td>
   </tr>
 </table>
