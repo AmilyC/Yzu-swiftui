@@ -1,9 +1,11 @@
-<h1>bonus</h1>
+<h1>HW1</h1>
 <table>
   <tr>
+   
     <td>
-```swift
-  import SwiftUI
+      
+ ```swift
+import SwiftUI
 
 struct ContentView: View {
     let displayFontType = [".default",".rounded",".monospaced",".serif"]
@@ -47,8 +49,11 @@ struct ContentView: View {
         }
     }
 }
-     
-```
-    </td>
+
+
+      
+ ```
+
+     </td>
   </tr>
 </table>
