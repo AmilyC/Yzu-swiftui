@@ -139,6 +139,9 @@ struct FruitView: View{
 }
 
 ```
+[![Watch the demo video](https://youtube.com/shorts/RAw42dzlDrc?si=Drtb5JLmF6Pc2YkY)]
+
+
  <img src="https://raw.githubusercontent.com/AmilyC/Yzu-swiftui/main/Hw2-1.jpg">
  <img src="https://raw.githubusercontent.com/AmilyC/Yzu-swiftui/main/HW2-2.jpg">
  <img src = "https://raw.githubusercontent.com/AMilyC/Yzu-swiftui/main/HW2-3.jpg">
