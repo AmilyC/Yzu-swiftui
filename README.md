@@ -14,4 +14,4 @@
 
 ## About hw4
 #### 作業四是以仿音樂串流平台的概念去完成的，透過設定可以更改整體的顏色風格，除了老師所規定的頁面以外，我另外增加了兩頁不同的呈現歌單的方式讓整個APP更加有趣且完整
-[hw4](https://github.com/AMilyC/Yzu-swiftui/lob/main/Hw4.md)
+[hw4](https://github.com/AMilyC/Yzu-swiftui/blob/main/Hw4.md)
